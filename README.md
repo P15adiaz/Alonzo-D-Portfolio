@@ -1,19 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> Alonzo Diaz | Cyber Security Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #141d26; color: #f4f4f4; margin: 0; }
-    header, section { max-width: 800px; margin: auto; padding: 2em 1em; }
-    header { border-bottom: 2px solid #2b3a4a; }
-    h1, h2 { color: #05f2db; }
-    .projects { margin: 2em 0; }
-    .project { background: #202b38; padding: 1em; border-radius: 8px; margin-bottom: 1em; }
-    a { color: #05f2db; text-decoration: underline; }
-    .about { background: #202b38; padding: 1em; border-radius: 8px; }
-  </style>
-<body>
   <header>
     <h1> Alonzo Diaz - Cyber Security Portfolio</h1>
     <p>Welcome to my portfolio! Here you can explore my completed cyber security projects and learn a bit about me.</p>
