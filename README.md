@@ -27,25 +27,37 @@
         <li>Restricting admin access so only the right people could run specific tasks.</li>
         <li>Fixing file permissions so only the right teams could access confidential scripts.</li>
         <li>Removing files that exposed passwords.</li>
-        <li><a href="#">Report Link</a> <!-- Replace with your report or GitHub repo link --></li>
+        <li><a href="#">Project Link</a> <!-- Replace with your report or GitHub repo link --></li>
       </ul>
       <p> Outcome: The server was hardened against common security risks. This project showed my ability to apply real-world security practices to protect company systems and data. </p>
     </div>
     <div class="project">
-      <h3>Network Penetration Testing</h3>
+      <h3>Project 2: Offensive Security – Capture the Flag Project</h3>
+      <p>In this project, I worked as an ethical hacker assessing the security of Rekall Corporation’s systems. The goal was to simulate real-world cyberattacks, uncover weaknesses, and prove successful exploits by collecting hidden “flags” across their environment. Key Tasks Completed are as follows: </p>
       <ul>
-        <li>Used Kali Linux tools (Nmap, Metasploit) to assess network security for a small business.</li>
-        <li>Identified weak passwords and outdated software.</li>
-        <li>Helped the team implement stronger authentication and patch vulnerabilities.</li>
+        <li>Web Application Attacks: Tested Rekall’s web application for common vulnerabilities, such as weak authentication and insecure inputs, then exploited them to gain access. </li>
+        <li>Linux Server Exploits: Found misconfigurations and privilege escalation opportunities on Linux servers, which allowed me to capture system-level flags.</li>
+        <li>Windows Server Exploits: Identified weaknesses in Windows servers, including outdated services and improper access controls, and leveraged them to gain entry.
+</li>
+        <li><a href="#">Project Link</a> <!-- Replace with your report or GitHub repo link --></li>
       </ul>
+      <p>Outcome: I identified vulnerabilities across web, Linux, and Windows systems that could have been used by real attackers. This project strengthened my skills in penetration testing, vulnerability assessment, and thinking like a hacker to better protect organizational systems.
+</p>
     </div>
     <div class="project">
-      <h3>Wireless Security Audit</h3>
+      <h3>Project 3: Defensive Security Monitoring – Splunk Project</h3>
+      <p>In this project, I acted as a Security Operations Center (SOC) analyst for Virtual Space Industries (VSI). The goal was to build a monitoring solution in Splunk to detect suspicious activity and potential attacks against the company’s systems. Some key tasked compeleted are as follows: </p>
       <ul>
-        <li>Audited the security of a corporate Wi-Fi network.</li>
-        <li>Demonstrated WPA2 vulnerabilities and educated staff on secure practices.</li>
-        <li><a href="#">Blog Post</a> <!-- Replace with your write-up link --></li>
+        <li>Windows Server Monitoring: Loaded and analyzed Windows logs, then created reports, alerts, and dashboards to detect failed logins, account deletions, and abnormal activity.</li>
+        <li>Apache Web Server Monitoring: Analyzed web server logs to track traffic patterns, HTTP requests, and suspicious referrers. Built visualizations and alerts for unusual activity, such as spikes in POST requests or traffic from outside the U.S.</li>
+        <li> Alerting and Baselining: Established baselines for normal system behavior, then designed real-time alerts to notify the SOC when thresholds were exceeded. </li>
+        <li>Dashboards: Created interactive Splunk dashboards to visualize system activity, including charts, maps, and single-value indicators, making it easier to spot anomalies.</li>
+        <li>Splunk Add-On Application: Installed and configured an add-on from Splunkbase to expand monitoring capabilities and improve detection of threats.</li>
+        <li><a href="#">Project Link </a> <!-- Replace with your write-up link --></li>
       </ul>
+      <p>Outcome:
+This project demonstrated my ability to use a SIEM tool (Splunk) for log analysis, reporting, alerting, and visualization. I gained hands-on experience in continuous monitoring, baselining, and correlating security events across systems to strengthen an organization’s defenses against cyberattacks.
+</p>
     </div>
     <!-- Add more projects as needed -->
   </section>
