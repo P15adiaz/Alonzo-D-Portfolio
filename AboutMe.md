@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <header>
     <h1> Alonzo Diaz - Cyber Security Portfolio</h1>
-    <p>Welcome to my portfolio! Here you can explore my completed cyber security projects and learn a bit about me.</p>
+    <p>Welcome to my portfolio! Here you can explore my completed cyber security projects and learn a bit about me!</p>
   </header>
   <section class="about">
     <h2>About Me</h2>
