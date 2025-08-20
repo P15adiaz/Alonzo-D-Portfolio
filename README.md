@@ -19,7 +19,7 @@
 </head>
 <body>
   <header>
-    <h1>P15adiaz - Cyber Security Portfolio</h1>
+    <h1> Alonzo Diaz - Cyber Security Portfolio</h1>
     <p>Welcome to my portfolio! Here you can explore my completed cyber security projects and learn a bit about me.</p>
   </header>
   <section class="about">
