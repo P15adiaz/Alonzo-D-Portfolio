@@ -3,7 +3,6 @@ Welcome to my protfolio
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>P15adiaz | Cyber Security Portfolio</title>
@@ -17,7 +16,6 @@ Welcome to my protfolio
     a { color: #05f2db; text-decoration: underline; }
     .about { background: #202b38; padding: 1em; border-radius: 8px; }
   </style>
-</head>
 <body>
   <header>
     <h1> Alonzo Diaz - Cyber Security Portfolio</h1>
