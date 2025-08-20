@@ -17,12 +17,19 @@
   <section class="projects">
     <h2>Cyber Security Projects</h2>
     <div class="project">
-      <h3>Vulnerability Assessment of Web Application</h3>
+      <h3>Project 1: Linux Server Hardening – Capture the Flag Project </h3>
+      <p> In this project I secured a simulated company server to protect sensitive data. My work included:
+</p>
       <ul>
-        <li>Performed security scan using Burp Suite and discovered multiple XSS and SQLi vulnerabilities.</li>
-        <li>Created a detailed report and recommended mitigation strategies.</li>
+        <li>Backing up the system before making changes.</li>
+        <li>Reviewing employee accounts, removing old ones, and locking accounts for staff on leave.</li>
+        <li>Enforcing stronger password rules so employees used secure logins.</li>
+        <li>Restricting admin access so only the right people could run specific tasks.</li>
+        <li>Fixing file permissions so only the right teams could access confidential scripts.</li>
+        <li>Removing files that exposed passwords.</li>
         <li><a href="#">Report Link</a> <!-- Replace with your report or GitHub repo link --></li>
       </ul>
+      <p> Outcome: The server was hardened against common security risks. This project showed my ability to apply real-world security practices to protect company systems and data. </p>
     </div>
     <div class="project">
       <h3>Network Penetration Testing</h3>
