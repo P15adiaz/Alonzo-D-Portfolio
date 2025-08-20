@@ -11,9 +11,41 @@
     <ul>
       <li><strong>Skills:</strong> Penetration Testing, Network Security, Web Application Security, Python, Kali Linux, Burp Suite, Wireshark</li>
       <li><strong>Certifications:</strong> Security+ </li>
-      <li><strong>Contact:</strong> my email is fpadiaz@gmail.com and my linked in is https://www.linkedin.com/in/diazalonzo/ </li>
+      <li><strong>Contact:</strong> my email is fpadiaz@gmail.com and my LinkedIn URL is https://www.linkedin.com/in/diazalonzo/ </li>
     </ul>
   </section>
+  <section class="Professional experience">
+    <h2> Professional Experience </h2>
+    <div class="Professional experience">
+      <h3> <i>Program Director</i> - Wakeman Boys and Girls Club Southport, CT (Aug 23 - Mar 24)</h3>
+      <ul> 
+      <li> Implemented Apple coding curriculum for 200+ students, promoting early digital safety.  </li>
+      <li> Managed grant reporting and compliance with strict data integrity protocls</li>
+      <li> Supervised and entored 20+ staff, aligning operations with best practices in digitial access and vendor security </li>
+      </ul>
+      </div>
+     <div class="Professional experience">
+     <h3> <i> Culture & Academic Program Manager</i> - Democracy Prep Schools, New York, NY (Nov 21 - Aug 23) </h3>
+     <ul>
+       <li>Ensured secure data access for 400+ students, managing tutoring platform infrastructure.
+ </li>
+       <li>Managed internal websites and created secure communications systems to protect sensitive stakeholder
+information</li>
+       <li>Led tech deployments and endpoint management for remote student access.</li>
+     </ul>
+     </div>
+    <div class="Professional experience">
+    <h3><i>Area Manager</i> - Delievery Operations - Amazon Logistics, Stratford, CT (April 21 - Oct 21) </h3>
+    <ul>
+     <li>Coordinated secure access systems across logistics teams, ensuring compliance with internal protocols.
+</li>
+<li>Communicated operations data and site access across various departments while upholding internal
+security protocols.
+</li>
+     </ul>
+    </div>
+     
+      
   <section class="projects">
     <h2>Cyber Security Projects</h2>
     <div class="project">
