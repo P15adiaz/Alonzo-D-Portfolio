@@ -6,11 +6,11 @@
   <section class="about">
     <h2>About Me</h2>
     <p>
-      Hi, my name is Alonzo Diaz, a passionate cyber security enthusiast. I specialize in ethical hacking, penetration testing, and securing web applications. I enjoy learning new cyber security tools and frameworks, and I’m always up for a challenge. My goal is to help make the internet a safer place by identifying vulnerabilities and sharing knowledge.
+      Hi, my name is Alonzo Diaz, aMotivated cybersecurity professional with a strong foundation in network security, Linux administration, and threat detection, transitioning from leadership roles in education and logistics. Holds a CompTIA Security+ certification and recently completed a Cybersecurity Bootcamp at the University of Connecticut with hands-on experience using tools like Splunk, Kali Linux, and Wireshark. Recognized for building efficient, secure systems and fostering team success.
     </p>
     <ul>
       <li><strong>Skills:</strong> Penetration Testing, Network Security, Web Application Security, Python, Kali Linux, Burp Suite, Wireshark</li>
-      <li><strong>Certifications:</strong> (List any certifications here, e.g. CEH, Security+)</li>
+      <li><strong>Certifications:</strong> Security+ </li>
       <li><strong>Contact:</strong> my email is fpadiaz@gmail.com and my linked in is https://www.linkedin.com/in/diazalonzo/ </li>
     </ul>
   </section>
