@@ -1,11 +1,8 @@
-#cyberace
-Welcome to my protfolio
-
 <!DOCTYPE html>
 <html lang="en">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>P15adiaz | Cyber Security Portfolio</title>
+  <title> Alonzo Diaz | Cyber Security Portfolio</title>
   <style>
     body { font-family: Arial, sans-serif; background: #141d26; color: #f4f4f4; margin: 0; }
     header, section { max-width: 800px; margin: auto; padding: 2em 1em; }
