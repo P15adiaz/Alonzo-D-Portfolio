@@ -39,7 +39,7 @@
         <li>Linux Server Exploits: Found misconfigurations and privilege escalation opportunities on Linux servers, which allowed me to capture system-level flags.</li>
         <li>Windows Server Exploits: Identified weaknesses in Windows servers, including outdated services and improper access controls, and leveraged them to gain entry.
 </li>
-        <li><a href="#">Project Link</a> <!-- Replace with your report or GitHub repo link --></li>
+        <li><a href="https://github.com/P15adiaz/cyberace/blob/main/Project_1_AlonzoDiaz.pdf">Project Link</a> <!-- Replace with your report or GitHub repo link --></li>
       </ul>
       <p>Outcome: I identified vulnerabilities across web, Linux, and Windows systems that could have been used by real attackers. This project strengthened my skills in penetration testing, vulnerability assessment, and thinking like a hacker to better protect organizational systems.
 </p>
