@@ -11,7 +11,7 @@
     <ul>
       <li><strong>Skills:</strong> Penetration Testing, Network Security, Web Application Security, Python, Kali Linux, Burp Suite, Wireshark</li>
       <li><strong>Certifications:</strong> (List any certifications here, e.g. CEH, Security+)</li>
-      <li><strong>Contact:</strong> (Add your email or LinkedIn link if you wish)</li>
+      <li><strong>Contact:</strong> my email is fpadiaz@gmail.com and my linked in is https://www.linkedin.com/in/diazalonzo/ </li>
     </ul>
   </section>
   <section class="projects">
