@@ -6,7 +6,7 @@
   <section class="about">
     <h2>About Me</h2>
     <p>
-      Hi, I'm P15adiaz, a passionate cyber security enthusiast. I specialize in ethical hacking, penetration testing, and securing web applications. I enjoy learning new cyber security tools and frameworks, and I’m always up for a challenge. My goal is to help make the internet a safer place by identifying vulnerabilities and sharing knowledge.
+      Hi, my name is Alonzo Diaz, a passionate cyber security enthusiast. I specialize in ethical hacking, penetration testing, and securing web applications. I enjoy learning new cyber security tools and frameworks, and I’m always up for a challenge. My goal is to help make the internet a safer place by identifying vulnerabilities and sharing knowledge.
     </p>
     <ul>
       <li><strong>Skills:</strong> Penetration Testing, Network Security, Web Application Security, Python, Kali Linux, Burp Suite, Wireshark</li>
