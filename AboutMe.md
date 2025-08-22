@@ -20,8 +20,12 @@
       <h3> <i>Program Director</i> - Wakeman Boys and Girls Club (Aug 23 - Mar 24)</h3>
       <ul> 
       <li> Implemented Apple coding curriculum for 200+ students, promoting early digital safety.  </li>
-      <li> Managed grant reporting and compliance with strict data integrity protocls</li>
+      <li> Managed Connecticut grants up to $10K, ensuring strict compliance through accurate data reporting and
+structured process execution.
+</li>
       <li> Supervised and entored 20+ staff, aligning operations with best practices in digitial access and vendor security </li>
+        <li>Provided actionable data insights and program feedback during quarterly board meetings to support
+continuous improvement and informed decision-making</li>
       </ul>
       </div>
      <div class="Professional experience">
