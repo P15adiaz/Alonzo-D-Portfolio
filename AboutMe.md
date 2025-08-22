@@ -85,8 +85,8 @@ security protocols.
         <li> Alerting and Baselining: Established baselines for normal system behavior, then designed real-time alerts to notify the SOC when thresholds were exceeded. </li>
         <li>Dashboards: Created interactive Splunk dashboards to visualize system activity, including charts, maps, and single-value indicators, making it easier to spot anomalies.</li>
         <li>Splunk Add-On Application: Installed and configured an add-on from Splunkbase to expand monitoring capabilities and improve detection of threats.</li>
-        <li><a href="#">Project Link </a> </li>
-        <li><a href="#">Slide Link </a> </li>
+        <li><a href="https://github.com/P15adiaz/Alonzo-D-Portfolio/blob/main/Project_3_Alonzo%20Diaz_P1.pptx.pdf">Slide Link </a> </li>
+        <li><a href="https://github.com/P15adiaz/Alonzo-D-Portfolio/blob/main/Project_3_Alonzo%20Diaz_P2.pdf">Project Link </a> </li>
       </ul>
       <p>Outcome:
 This project demonstrated my ability to use a SIEM tool (Splunk) for log analysis, reporting, alerting, and visualization. I gained hands-on experience in continuous monitoring, baselining, and correlating security events across systems to strengthen an organization’s defenses against cyberattacks.
