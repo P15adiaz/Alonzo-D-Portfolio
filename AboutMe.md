@@ -6,7 +6,7 @@
   <section class="about">
     <h2>About Me</h2>
     <p>
-      Hi, my name is Alonzo Diaz, aMotivated cybersecurity professional with a strong foundation in network security, Linux administration, and threat detection, transitioning from leadership roles in education and logistics. Holds a CompTIA Security+ certification and recently completed a Cybersecurity Bootcamp at the University of Connecticut with hands-on experience using tools like Splunk, Kali Linux, and Wireshark. Recognized for building efficient, secure systems and fostering team success.
+      Hi, my name is Alonzo Diaz, a Motivated cybersecurity professional with a strong foundation in network security, Linux administration, and threat detection, transitioning from leadership roles in education and logistics. Holds a CompTIA Security+ certification and recently completed a Cybersecurity Bootcamp at the University of Connecticut with hands-on experience using tools like Splunk, Kali Linux, and Wireshark. Recognized for building efficient, secure systems and fostering team success.
     </p>
     <ul>
       <li><strong>Skills:</strong> Penetration Testing, Network Security, Web Application Security, Python, Kali Linux, Burp Suite, Wireshark</li>
