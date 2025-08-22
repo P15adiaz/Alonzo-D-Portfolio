@@ -17,7 +17,7 @@
   <section class="Professional experience">
     <h2> Professional Experience </h2>
     <div class="Professional experience">
-      <h3> <i>Program Director</i> - Wakeman Boys and Girls Club Southport, CT (Aug 23 - Mar 24)</h3>
+      <h3> <i>Program Director</i> - Wakeman Boys and Girls Club (Aug 23 - Mar 24)</h3>
       <ul> 
       <li> Implemented Apple coding curriculum for 200+ students, promoting early digital safety.  </li>
       <li> Managed grant reporting and compliance with strict data integrity protocls</li>
@@ -25,7 +25,7 @@
       </ul>
       </div>
      <div class="Professional experience">
-     <h3> <i> Culture & Academic Program Manager</i> - Democracy Prep Schools, New York, NY (Nov 21 - Aug 23) </h3>
+     <h3> <i> Culture & Academic Program Manager</i> - Democracy Prep Schools (Nov 21 - Aug 23) </h3>
      <ul>
        <li>Ensured secure data access for 400+ students, managing tutoring platform infrastructure.
  </li>
@@ -35,7 +35,7 @@ information</li>
      </ul>
      </div>
     <div class="Professional experience">
-    <h3><i>Area Manager</i> - Delievery Operations - Amazon Logistics, Stratford, CT (April 21 - Oct 21) </h3>
+    <h3><i>Area Manager</i> - Delievery Operations - Amazon Logistics (April 21 - Oct 21) </h3>
     <ul>
      <li>Coordinated secure access systems across logistics teams, ensuring compliance with internal protocols.
 </li>
