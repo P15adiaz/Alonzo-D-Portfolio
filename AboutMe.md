@@ -59,7 +59,6 @@ security protocols.
         <li>Restricting admin access so only the right people could run specific tasks.</li>
         <li>Fixing file permissions so only the right teams could access confidential scripts.</li>
         <li>Removing files that exposed passwords.</li>
-        <li><a href="#">Project Link </a> <!-- Replace with your report or GitHub repo link --></li>
       </ul>
       <p> Outcome: The server was hardened against common security risks. This project showed my ability to apply real-world security practices to protect company systems and data. </p>
     </div>
