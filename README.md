@@ -5,7 +5,7 @@ I'm Alonzo Diaz, a cybersecurity professional with a CompTIA Security+ certifica
 I have experience with Linux, Splunk, Wireshark, Kali Linux, and Python. My background in education and logistics shows I can lead, solve problems, and secure systems.  
 
 ## What You'll Find Here
-This GitHub highlights my technical projects and experience. Each repository has a README with documentation, code, and lessons learned.
+This GitHub highlights my technical projects and experience. 
 
 ### Capture the Flag (CTF) Write-Ups
 Step-by-step solutions to CTF challenges, including tools and methodologies used.
