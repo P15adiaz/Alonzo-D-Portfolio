@@ -59,7 +59,7 @@ security protocols.
         <li>Restricting admin access so only the right people could run specific tasks.</li>
         <li>Fixing file permissions so only the right teams could access confidential scripts.</li>
         <li>Removing files that exposed passwords.</li>
-        <li><a href="https://github.com/P15adiaz/cyberace/blob/main/Project_1_AlonzoDiaz.pdf">Project Link</a> <!-- Replace with your report or GitHub repo link --></li>
+        <li><a href="https://github.com/P15adiaz/cyberace/blob/main/Project_1_AlonzoDiaz.pdf">Project Link</a></li>
       </ul>
       <p> Outcome: The server was hardened against common security risks. This project showed my ability to apply real-world security practices to protect company systems and data. </p>
     </div>
@@ -71,7 +71,7 @@ security protocols.
         <li>Linux Server Exploits: Found misconfigurations and privilege escalation opportunities on Linux servers, which allowed me to capture system-level flags.</li>
         <li>Windows Server Exploits: Identified weaknesses in Windows servers, including outdated services and improper access controls, and leveraged them to gain entry.
 </li>
-        <li><a href="https://github.com/P15adiaz/Alonzo-D-Portfolio/blob/main/Project_2_Alonzo%20Diaz.pdf">Project Link</a> <!-- Replace with your report or GitHub repo link --></li>
+        <li><a href="https://github.com/P15adiaz/Alonzo-D-Portfolio/blob/main/Project_2_Alonzo%20Diaz.pdf">Project Link</a> </li>
       </ul>
       <p>Outcome: I identified vulnerabilities across web, Linux, and Windows systems that could have been used by real attackers. This project strengthened my skills in penetration testing, vulnerability assessment, and thinking like a hacker to better protect organizational systems.
 </p>
@@ -85,7 +85,8 @@ security protocols.
         <li> Alerting and Baselining: Established baselines for normal system behavior, then designed real-time alerts to notify the SOC when thresholds were exceeded. </li>
         <li>Dashboards: Created interactive Splunk dashboards to visualize system activity, including charts, maps, and single-value indicators, making it easier to spot anomalies.</li>
         <li>Splunk Add-On Application: Installed and configured an add-on from Splunkbase to expand monitoring capabilities and improve detection of threats.</li>
-        <li><a href="#">Project Link </a> <!-- Replace with your write-up link --></li>
+        <li><a href="#">Project Link </a> </li>
+        <li><a href="#">Slide Link </a> </li>
       </ul>
       <p>Outcome:
 This project demonstrated my ability to use a SIEM tool (Splunk) for log analysis, reporting, alerting, and visualization. I gained hands-on experience in continuous monitoring, baselining, and correlating security events across systems to strengthen an organization’s defenses against cyberattacks.
